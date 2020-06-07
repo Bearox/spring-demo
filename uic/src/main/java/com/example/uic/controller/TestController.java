@@ -26,7 +26,7 @@ public class TestController {
     @Autowired
     private DiscoveryClient discoveryClient;
 
-    @GetMapping("/service-instances/{applicationName}")
+        @GetMapping("/service-instances/{applicationName}")
     public List<ServiceInstance> serviceInstancesByApplicationName(
             @PathVariable String applicationName) {
         return this.discoveryClient.getInstances(applicationName);
