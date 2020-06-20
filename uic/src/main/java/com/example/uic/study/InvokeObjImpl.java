@@ -1,10 +1,10 @@
 /*
- * InvokeObj.java
+ * InvokeObjImpl.java
  * Copyright 2020 Qunhe Tech, all rights reserved.
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.example.uic.controller;
+package com.example.uic.study;
 
 /**
  * Function: 反射测试对象

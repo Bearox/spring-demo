@@ -4,7 +4,7 @@
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.example.uic.controller;
+package com.example.uic.study;
 
 /**
  * Function: 测试一下继承接口的方式

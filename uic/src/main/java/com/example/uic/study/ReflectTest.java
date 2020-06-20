@@ -4,7 +4,7 @@
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.example.uic.controller;
+package com.example.uic.study;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
