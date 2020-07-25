@@ -1,0 +1,82 @@
+--- Process 6340 created
+--- Process 6340 loaded C:\Windows\System32\ntdll.dll at 00007ffaf8ac0000
+--- Process 6340 loaded C:\Windows\System32\kernel32.dll at 00007ffaf78c0000
+--- Process 6340 loaded C:\Windows\System32\KernelBase.dll at 00007ffaf6570000
+--- Process 6340 loaded C:\Windows\System32\advapi32.dll at 00007ffaf72f0000
+--- Process 6340 loaded C:\Windows\System32\msvcrt.dll at 00007ffaf7610000
+--- Process 6340 thread 5200 created
+--- Process 6340 loaded C:\Windows\System32\sechost.dll at 00007ffaf82f0000
+--- Process 6340 loaded C:\Windows\System32\rpcrt4.dll at 00007ffaf6c40000
+--- Process 6340 loaded C:\Windows\System32\user32.dll at 00007ffaf8150000
+--- Process 6340 thread 17216 created
+--- Process 6340 loaded C:\Windows\System32\win32u.dll at 00007ffaf6950000
+--- Process 6340 thread 14088 created
+--- Process 6340 loaded C:\Windows\System32\gdi32.dll at 00007ffaf72b0000
+--- Process 6340 loaded C:\Windows\System32\gdi32full.dll at 00007ffaf6980000
+--- Process 6340 loaded C:\Windows\System32\msvcp_win.dll at 00007ffaf68b0000
+--- Process 6340 loaded C:\Windows\System32\ucrtbase.dll at 00007ffaf5a50000
+--- Process 6340 loaded C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.836_none_e6c4b943130f18ed\comctl32.dll at 00007ffae4e10000
+--- Process 6340 loaded C:\Windows\System32\combase.dll at 00007ffaf6e30000
+--- Process 6340 loaded C:\Windows\System32\bcryptprimitives.dll at 00007ffaf5d70000
+--- Process 6340 loaded C:\Windows\System32\imm32.dll at 00007ffaf7b20000
+--- Process 6340 loaded C:\Program Files\cmder\vendor\conemu-maximus5\ConEmu\ConEmuHk64.dll at 00007e1100000000
+--- Process 6340 loaded C:\Program Files\Java\jre1.8.0_241\bin\msvcr100.dll at 0000000050750000
+--- Process 6340 loaded C:\Program Files\Java\jre1.8.0_241\bin\server\jvm.dll at 00000000774f0000
+--- Process 6340 loaded C:\Windows\System32\psapi.dll at 00007ffaf7ab0000
+--- Process 6340 loaded C:\Windows\System32\winmm.dll at 00007ffaeeeb0000
+--- Process 6340 loaded C:\Windows\System32\version.dll at 00007ffaeb200000
+--- Process 6340 loaded C:\Windows\System32\wsock32.dll at 00007ffaf44b0000
+--- Process 6340 loaded C:\Windows\System32\winmmbase.dll at 00007ffaeee80000
+--- Process 6340 loaded C:\Windows\System32\winmmbase.dll at 0000000001470000
+--- Process 6340 unloaded DLL at 0000000001470000
+--- Process 6340 loaded C:\Windows\System32\cfgmgr32.dll at 00007ffaf6b20000
+--- Process 6340 loaded C:\Windows\System32\ws2_32.dll at 00007ffaf74d0000
+--- Process 6340 loaded C:\Windows\System32\ws2_32.dll at 0000000002ac0000
+--- Process 6340 unloaded DLL at 0000000002ac0000
+--- Process 6340 thread 16340 created
+--- Process 6340 loaded C:\Program Files\Java\jre1.8.0_241\bin\verify.dll at 00007ffaee8b0000
+--- Process 6340 loaded C:\Program Files\Java\jre1.8.0_241\bin\java.dll at 00007ffaea660000
+--- Process 6340 loaded C:\Program Files\Java\jre1.8.0_241\bin\zip.dll at 00007ffaee6c0000
+--- Process 6340, exception c0000005 at 00000000031303b4
+--- Process 6340 thread 12380 created
+--- Process 6340 thread 15180 created
+--- Process 6340 thread 16968 created
+--- Process 6340 thread 6960 created
+--- Process 6340 thread 14744 created
+--- Process 6340 thread 13372 created
+--- Process 6340 thread 9748 created
+--- Process 6340 loaded C:\Windows\System32\shell32.dll at 00007ffaf8390000
+--- Process 6340 loaded C:\Windows\System32\SHCore.dll at 00007ffaf7420000
+--- Process 6340 loaded C:\Windows\System32\windows.storage.dll at 0000000018f50000
+--- Process 6340 loaded C:\Windows\System32\profapi.dll at 00007ffaf5a20000
+--- Process 6340 loaded C:\Windows\System32\powrprof.dll at 00007ffaf59b0000
+--- Process 6340 loaded C:\Windows\System32\umpdc.dll at 00007ffaf5980000
+--- Process 6340 loaded C:\Windows\System32\shlwapi.dll at 00007ffaf6b70000
+--- Process 6340 loaded C:\Windows\System32\kernel.appcore.dll at 00007ffaf5990000
+--- Process 6340 loaded C:\Windows\System32\cryptsp.dll at 00007ffaf5b50000
+--- Process 6340 thread 12996 created
+--- Process 6340 thread 5704 created
+--- Process 6340 thread 15968 created
+--- Process 6340 thread 14272 created
+--- Process 6340 thread 14648 created
+--- Process 6340 thread 15856 created
+--- Process 6340 thread 6776 created
+--- Process 6340 thread 6776 exited with status 0x0
+--- Process 6340 thread 15968 exited with status 0x1
+--- Process 6340 thread 13372 exited with status 0x1
+--- Process 6340 thread 14648 exited with status 0x1
+--- Process 6340 thread 12996 exited with status 0x1
+--- Process 6340 thread 5704 exited with status 0x1
+--- Process 6340 thread 14272 exited with status 0x1
+--- Process 6340 thread 16968 exited with status 0x1
+--- Process 6340 thread 9748 exited with status 0x1
+--- Process 6340 thread 6960 exited with status 0x1
+--- Process 6340 thread 12380 exited with status 0x1
+--- Process 6340 thread 15180 exited with status 0x1
+--- Process 6340 thread 16340 exited with status 0x1
+--- Process 6340 thread 1068 exited with status 0x1
+--- Process 6340 thread 15856 exited with status 0x1
+--- Process 6340 thread 14088 exited with status 0x1
+--- Process 6340 thread 17216 exited with status 0x1
+--- Process 6340 thread 5200 exited with status 0x1
+--- Process 6340 exited with status 0x1
